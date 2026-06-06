@@ -39,5 +39,5 @@ jobs:
     uses: actions/upload-artifact@v3
     with:
       name: trained-model-${{ matrix.python-version }}-${{ github.run_id }}
-      path: artifacts/model.pkl
+      path: artifacts/model.pkl 
 
