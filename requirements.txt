@@ -9,12 +9,9 @@ python-dotenv
 pydantic
 python-multipart
 
-PyMuPDF
-opencv-python
+
 numpy
 
-mistralai
-langchain
-langchain-openai
+
 
 requests
